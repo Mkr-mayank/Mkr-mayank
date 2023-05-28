@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **OOPs and DSA in Java**
 
-- 💬 Ask me about **Data Structures, Technology**
+- 💬 Ask me about **Data Structures & Technology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
