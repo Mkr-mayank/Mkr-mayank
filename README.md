@@ -4,7 +4,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkr-mayank&label=Profile%20views&color=0e75b6&style=flat" alt="mkr-mayank" /> </p> -->
 
 <!-- <p align="left"> <a href="https://twitter.com/mayank_realz" target="blank"><img src="https://img.shields.io/twitter/follow/mayank_realz?logo=twitter&style=for-the-badge" alt="mayank_realz" /></a> </p> -->
-<p align="left"> <a href="https://www.linkedin.com/in/mayank-kumar-995832250/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/mayank-kumar-995832250/" target="_main"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
 
 - 🌱 I’m currently learning **OOPs and DSA in Java**
 
