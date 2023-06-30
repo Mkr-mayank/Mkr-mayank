@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mayank_realz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayank_realz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mayank-kumar-995832250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-kumar-995832250" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mkr-mayank/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-kumar-995832250" height="30" width="40" /></a>
 <a href="https://instagram.com/the_mayank.kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_mayank.kr" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mayankj6208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mayankj6208" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mkrmayank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mkrmayank" height="30" width="40" /></a>
