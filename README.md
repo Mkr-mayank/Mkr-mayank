@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Kumar</h1>
-<h3 align="center">Passionate in learning Data Structure and Algorithms</h3>
+<h3 align="center">Passionate in learning Data Structures and Algoritms, and Website Designing</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkr-mayank&label=Profile%20views&color=0e75b6&style=flat" alt="mkr-mayank" /> </p> -->
 
@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://www.linkedin.com/in/mkr-mayank/" target="_main"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
 
 - 🌱 I’m currently learning **OOPs and DSA in Java**
-
+- 🧑‍💻 Working in **Front-End Projects**
 - 💬 Ask me about **Data Structures & Projects**
 
 <!-- <h3 align="left">Connect with me:</h3>
