@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://www.linkedin.com/in/mkr-mayank/" target="_main"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
 
 - 🌱 I’m currently learning **OOPs and DSA in Java**
-- 🧑‍💻 Working in **Front-End Projects**
+- 🧑‍💻 Contributing in **Front-End Projects**
 - 💬 Ask me about **Data Structures & Projects**
 
  <h3 align="left">Connect with me:</h3>
